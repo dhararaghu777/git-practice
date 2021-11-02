@@ -1,2 +1,4 @@
 Hello to git;
 this is all about basics.
+
+this is newly type one
